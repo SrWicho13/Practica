@@ -17,3 +17,16 @@ Parte 1: Ejercicios Básicos (15 minutos)
 
 5. Bucles Simples
    - Descripción: Escribe un bucle for que imprima los números del 1 al 10.
+
+Parte 2: Ejercicios Intermedios
+6. Arrays y Métodos Básicos
+   - Descripción: Declara un array con los números del 1 al 5. Agrega el número 6 al final del array y luego imprime el array modificado.
+
+7. Manipulación de Strings
+   - Descripción: Escribe una función toUpperCase que reciba una cadena de texto y devuelva la misma cadena en mayúsculas.
+
+8. Objetos Básicos
+   - Descripción: Declara un objeto persona con propiedades nombre, edad, y ciudad. Imprime cada propiedad en la consola.
+
+9. Manipulación de Objetos
+   - Descripción: Añade una función imprimirInfo dentro del objeto persona que imprima una frase con la información del objeto (e.g., "Soy [nombre], tengo [edad] años y vivo en [ciudad]").
